@@ -1,5 +1,7 @@
 # python-templates
-![GitHub tag checks state](https://img.shields.io/github/checks-status/ZenJevil/python-templates/main) ![GitHub](https://img.shields.io/github/license/zenjevil/python-templates) ![GitHub Repo stars](https://img.shields.io/github/stars/zenjevil/python-templates)
+![GitHub tag checks state](https://img.shields.io/github/checks-status/ZenJevil/python-templates/main) ![GitHub](https://img.shields.io/github/license/zenjevil/python-templates) ![GitHub Repo stars](https://img.shields.io/github/stars/zenjevil/python-templates) ![GitHub forks](https://img.shields.io/github/forks/zenjevil/python-templates) ![GitHub contributors](https://img.shields.io/github/contributors/zenjevil/python-templates)
+
+
 
 
 
