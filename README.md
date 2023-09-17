@@ -1,5 +1,7 @@
 # python-templates
-![GitHub tag checks state](https://img.shields.io/github/checks-status/ZenJevil/python-templates/main)
+![GitHub tag checks state](https://img.shields.io/github/checks-status/ZenJevil/python-templates/main) ![GitHub](https://img.shields.io/github/license/zenjevil/python-templates)
+
+
 Simple Python framework for creating code templates that you can use to make writing code faster and more efficient.
 Supports every programming language, runnable on any system, and is quick and easy to use.
 
