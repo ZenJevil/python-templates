@@ -2,6 +2,7 @@ import os
 import sys
 
 templateFile = sys.argv[1]
+templateFileExtension = sys.argv[2]
 
 if templateFile.endswith(".template"):
     with open(templateFile, 'r+') as template:
@@ -10,6 +11,6 @@ if templateFile.endswith(".template"):
 
     fileName = templateFile.strip('.template')
 
-    file = open('generatedTemplate.py', 'w+')
+    file = open(f'generatedTemplate.{templateFileExtension}', 'w+')
 
     file.write(templateContents)
