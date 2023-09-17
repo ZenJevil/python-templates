@@ -4,7 +4,7 @@ Supports every programming language, runnable on any system, and is quick and ea
 
 ## Installation
 
-1. Go to the latest release and download the .zip file.
+1. Go to the latest [release](https://github.com/ZenJevil/python-templates/releases/latest) and download the .zip file.
 
 2. Extract the zip file in any directory you would like.
 
