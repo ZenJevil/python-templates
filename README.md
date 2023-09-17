@@ -26,3 +26,5 @@ Supports every programming language, runnable on any system, and is quick and ea
 # And just like that, you have a simple template that you can use whenever you like!
 
 ## Note: if you are unable to set the file extension, make sure you do NOT include the '.' in the file extension, only the letters, such as 'c', not '.c'
+
+## Note 2: also make sure that your template is in the ```starter-templates``` directory lol
